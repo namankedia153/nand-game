@@ -1,2 +1,2 @@
-# nand-game
-Solutions for nand-game where you build a computer from scratch using logic gates
+# NAND Game Solutions
+Solutions for [NAND game](https://nandgame.com/) where you build a computer from scratch using logic gates.
